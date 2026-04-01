@@ -1,4 +1,4 @@
-## Personal Portfolio Website 
+## 1.Personal Portfolio Website 
 This project is a Personal Portfolio Website developed using HTML5 and CSS3 to showcase my skills, projects, and contact information in a professional and visually appealing manner.The main purpose of this project is to create an online presence where I can present my work and provide easy access to my resume for recruiters and organizations.
 
 -- Objective 
@@ -23,7 +23,7 @@ This project is a Personal Portfolio Website developed using HTML5 and CSS3 to s
 
 
 
-## Calculator 
+## 2.calculator 
 
 -This project is a Calculator Web Application developed using HTML5, CSS3, and JavaScript to perform basic arithmetic operations in a simple and user-friendly interface. The main purpose of this project is to demonstrate frontend development skills by creating an interactive calculator that handles user input dynamically and displays accurate results efficiently.
  
@@ -57,7 +57,7 @@ Evaluates the expression and displays the final result
 Simple layout that works smoothly on different screen sizes
 
 
-## Landing Page 
+## 3.Landing Page 
 --The Landing Page project is a responsive and visually structured web page developed using HTML and CSS. The purpose of this project is to create an attractive personal introduction webpage that highlights my profile, skills, and career interests in web development.
 --This landing page includes a navigation header section with menu links such as Home, About, Services, Skills, and Contact, allowing users to easily move across different sections of the webpage. It also contains a hero section that introduces me as a final-year undergraduate student with an interest in web development and internship opportunities.
 
